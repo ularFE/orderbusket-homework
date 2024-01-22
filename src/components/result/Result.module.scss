@@ -1,0 +1,15 @@
+.res{
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  .resultBox{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: greenyellow;
+    border-radius: 30px;
+    border: 2px solid black;
+
+  }
+}
